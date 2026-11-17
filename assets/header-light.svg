@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-label="PX-01 receipt: Aman Patel, creative developer in Ahmedabad. Curious. Builds. Ships.">
+<style>
+  .slip { animation: feed 1.6s cubic-bezier(.22,1,.36,1) .2s both; }
+  .led { animation: blink 1.1s steps(2, jump-none) infinite; }
+  @keyframes feed { from { transform: translateY(-380px); } to { transform: translateY(0); } }
+  @keyframes blink { 50% { opacity: .25; } }
+  @media (prefers-reduced-motion: reduce) { .slip, .led { animation: none; } }
+  .mono { font-family: ui-monospace, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; letter-spacing: .08em; }
+  .sans { font-family: "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif; }
+  .serif { font-family: Georgia, "Times New Roman", serif; }
+</style>
+<defs><clipPath id="below-slot"><rect x="0" y="34" width="1200" height="470"/></clipPath></defs>
+<g clip-path="url(#below-slot)"><g class="slip">
+  <rect x="60" y="30" width="1080" height="404" fill="#fdfcf9" stroke="#e7e3da"/>
+  <polygon points="60,430 60,432 72,444 84,432 96,444 108,432 120,444 132,432 144,444 156,432 168,444 180,432 192,444 204,432 216,444 228,432 240,444 252,432 264,444 276,432 288,444 300,432 312,444 324,432 336,444 348,432 360,444 372,432 384,444 396,432 408,444 420,432 432,444 444,432 456,444 468,432 480,444 492,432 504,444 516,432 528,444 540,432 552,444 564,432 576,444 588,432 600,444 612,432 624,444 636,432 648,444 660,432 672,444 684,432 696,444 708,432 720,444 732,432 744,444 756,432 768,444 780,432 792,444 804,432 816,444 828,432 840,444 852,432 864,444 876,432 888,444 900,432 912,444 924,432 936,444 948,432 960,444 972,432 984,444 996,432 1008,444 1020,432 1032,444 1044,432 1056,444 1068,432 1080,444 1092,432 1104,444 1116,432 1128,444 1140,432 1140,430" fill="#fdfcf9"/>
+  <text class="mono" x="104" y="82" font-size="15" fill="#6b675f">PX-01 · OUTPUT 00 · ABOUT</text>
+  <text class="mono" x="1096" y="82" font-size="15" fill="#6b675f" text-anchor="end">AHMEDABAD · IST</text>
+  <line x1="104" y1="100" x2="126" y2="100" stroke="#d81f12" stroke-width="2"/>
+  <text class="sans" x="100" y="214" font-size="124" font-weight="800" fill="#161518" textLength="640" lengthAdjust="spacingAndGlyphs">AMAN PATEL</text>
+  <text class="serif" x="104" y="268" font-size="34" font-style="italic" fill="#d81f12">Creative developer</text>
+  <text class="mono" x="104" y="306" font-size="16" fill="#6b675f">DESIGNER → FULL-STACK → AI</text>
+  <line x1="84" y1="334" x2="1116" y2="334" stroke="#6b675f" stroke-opacity=".45" stroke-dasharray="6 6"/>
+  <text class="mono" x="104" y="372" font-size="16" fill="#6b675f">IN THREE WORDS</text>
+  <text class="sans" x="104" y="400" font-size="24" font-weight="600" fill="#161518">Curious. Builds. Ships.</text>
+  <rect x="820" y="356" width="4" height="40" fill="#161518"/><rect x="827" y="356" width="2" height="40" fill="#161518"/><rect x="831" y="356" width="4" height="40" fill="#161518"/><rect x="839" y="356" width="3" height="40" fill="#161518"/><rect x="846" y="356" width="3" height="40" fill="#161518"/><rect x="852" y="356" width="6" height="40" fill="#161518"/><rect x="860" y="356" width="2" height="40" fill="#161518"/><rect x="866" y="356" width="2" height="40" fill="#161518"/><rect x="871" y="356" width="2" height="40" fill="#161518"/><rect x="875" y="356" width="3" height="40" fill="#161518"/><rect x="880" y="356" width="3" height="40" fill="#161518"/><rect x="887" y="356" width="6" height="40" fill="#161518"/><rect x="897" y="356" width="2" height="40" fill="#161518"/><rect x="901" y="356" width="6" height="40" fill="#161518"/><rect x="909" y="356" width="4" height="40" fill="#161518"/><rect x="916" y="356" width="2" height="40" fill="#161518"/><rect x="920" y="356" width="3" height="40" fill="#161518"/><rect x="927" y="356" width="4" height="40" fill="#161518"/><rect x="933" y="356" width="6" height="40" fill="#161518"/><rect x="943" y="356" width="2" height="40" fill="#161518"/><rect x="947" y="356" width="2" height="40" fill="#161518"/><rect x="951" y="356" width="2" height="40" fill="#161518"/><rect x="955" y="356" width="3" height="40" fill="#161518"/><rect x="961" y="356" width="2" height="40" fill="#161518"/><rect x="967" y="356" width="2" height="40" fill="#161518"/><rect x="973" y="356" width="6" height="40" fill="#161518"/><rect x="981" y="356" width="4" height="40" fill="#161518"/><rect x="987" y="356" width="3" height="40" fill="#161518"/><rect x="993" y="356" width="2" height="40" fill="#161518"/><rect x="997" y="356" width="2" height="40" fill="#161518"/><rect x="1002" y="356" width="2" height="40" fill="#161518"/><rect x="1008" y="356" width="4" height="40" fill="#161518"/><rect x="1015" y="356" width="2" height="40" fill="#161518"/><rect x="1019" y="356" width="2" height="40" fill="#161518"/><rect x="1023" y="356" width="2" height="40" fill="#161518"/><rect x="1028" y="356" width="4" height="40" fill="#161518"/><rect x="1035" y="356" width="6" height="40" fill="#161518"/><rect x="1045" y="356" width="3" height="40" fill="#161518"/><rect x="1052" y="356" width="2" height="40" fill="#161518"/><rect x="1056" y="356" width="4" height="40" fill="#161518"/><rect x="1063" y="356" width="2" height="40" fill="#161518"/><rect x="1067" y="356" width="2" height="40" fill="#161518"/><rect x="1073" y="356" width="2" height="40" fill="#161518"/><rect x="1079" y="356" width="2" height="40" fill="#161518"/>
+</g></g>
+<rect x="40" y="12" width="1120" height="30" rx="8" fill="#141417"/>
+<rect x="54" y="34" width="1092" height="3" rx="1.5" fill="#000"/>
+<circle class="led" cx="66" cy="24" r="4" fill="#ff2e1f"/>
+<text class="mono" x="80" y="29" font-size="12" fill="#8a8780">PRINTING</text>
+</svg>
